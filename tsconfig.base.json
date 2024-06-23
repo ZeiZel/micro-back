@@ -15,7 +15,7 @@
 		"skipDefaultLibCheck": true,
 		"baseUrl": ".",
 		"paths": {
-			"@interfaces": ["lib/interfaces/src/index.ts"]
+			"@/interfaces": ["lib/interfaces/src/index.ts"]
 		}
 	},
 	"exclude": ["node_modules", "tmp"]
